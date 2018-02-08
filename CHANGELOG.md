@@ -2,7 +2,7 @@
 
 ### vNEXT
 
-* ...
+* Add `graphql@0.13` to the peer dependency list.
 
 ### v2.20.1
 
